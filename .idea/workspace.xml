@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71e14dcc-59c5-40c8-8e97-60be6101e638" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/158A-next_round/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/112A-petya_and_strings/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/282A-bit++/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/50A-domino_piling/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +37,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../knyo" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
@@ -59,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626419347484</updated>
-      <workItem from="1626419348929" duration="5358000" />
+      <workItem from="1626419348929" duration="10195000" />
     </task>
     <servers />
   </component>
