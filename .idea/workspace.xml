@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65abc806-4845-4c1d-b4dd-caa32236754d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/118A-string_task/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/122A-lucky_division/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/131A-caps_lock/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1A-theatre_square/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/479A-expression/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/58A-chat_room/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/69A-young_physicist/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/main.go" afterDir="false" />
     </list>
@@ -66,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626674219637</updated>
-      <workItem from="1626674221187" duration="20772000" />
+      <workItem from="1626674221187" duration="24377000" />
     </task>
     <servers />
   </component>
