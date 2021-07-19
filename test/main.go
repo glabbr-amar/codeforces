@@ -3,10 +3,8 @@ package main
 import "fmt"
 
 func main() {
-	str := "amarkumar"
-	mp := make(map[byte]int)
-	for _,val := range str {
-		mp[byte(val)]++
+	check := true
+	if check {
+		fmt.Print("YES")
 	}
-	fmt.Print(len(mp))
 }
