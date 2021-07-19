@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71e14dcc-59c5-40c8-8e97-60be6101e638" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/263A-beautiful_matrix/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/339A-helpful_maths/main.go" afterDir="false" />
+    <list default="true" id="65abc806-4845-4c1d-b4dd-caa32236754d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/281A-word_capitalization/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1vO3XWqFRkiNgAUtI7xfpU7pVKd" />
+  <component name="ProjectId" id="1vWO8cMzYBgRKA19OvY11ifSTcQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,13 +33,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="configurable..is.expanded" value="false" />
-    <property name="configurable.GoLibrariesConfigurable.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../knyo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -54,29 +50,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="codeforces" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/339A-helpful_maths/main.go" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Go Build.go build main.go" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="71e14dcc-59c5-40c8-8e97-60be6101e638" name="Default Changelist" comment="" />
-      <created>1626419347484</created>
+      <changelist id="65abc806-4845-4c1d-b4dd-caa32236754d" name="Default Changelist" comment="" />
+      <created>1626674219637</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1626419347484</updated>
-      <workItem from="1626419348929" duration="14084000" />
+      <updated>1626674219637</updated>
+      <workItem from="1626674221187" duration="694000" />
     </task>
     <servers />
   </component>
@@ -93,9 +76,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>
